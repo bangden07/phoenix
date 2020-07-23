@@ -114,6 +114,7 @@ module.exports = {
         },
       ],
     },
+  },
     // This is a list of all themes that this starter is using.
     // To disable a theme, remove it here and run `yarn remove @arshad/gatsby-theme-NAME`.
     `gatsby-plugin-advanced-sitemap`,
