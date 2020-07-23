@@ -58,9 +58,15 @@ module.exports = {
       },
     ],
   },
+
+  siteMetadata: {
+    siteUrl: `https://dreamy-saha-04828b.netlify.app`,
+  },
+
   plugins: [
     // This is a list of all themes that this starter is using.
     // To disable a theme, remove it here and run `yarn remove @arshad/gatsby-theme-NAME`.
+    `gatsby-plugin-advanced-sitemap`,
     `@arshad/gatsby-theme-blog-core`,
     `@arshad/gatsby-theme-page-core`,
     `@arshad/gatsby-theme-portfolio-core`,

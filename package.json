@@ -26,6 +26,7 @@
     "@arshad/gatsby-theme-podcast-core": "^1.1.6",
     "@arshad/gatsby-theme-portfolio-core": "^1.1.6",
     "gatsby": "^2.21.11",
+    "gatsby-plugin-advanced-sitemap": "^1.5.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
