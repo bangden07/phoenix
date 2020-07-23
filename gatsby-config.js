@@ -9,7 +9,7 @@ module.exports = {
     copyright: `© YYYY Phoenix. All rights reserved.`,
     icon: `src/images/icon.png`,
     logo: `logo.png`,
-    color: `#3C64F1`,
+    color: `#18dcff`,
     menuLinks: [
       {
         name: `Home`,
